@@ -14,6 +14,6 @@ iris = pd.read_csv('iris_dataset.csv')
 
 groups = iris.groupby(by = 'species')
 means, sds = groups.mean(), groups.std()
-means.plot(yerr = sds, kind = 'bar', figsize = (7,3), table = True)
+means.plot(yerr = sds, kind = 'bar', figsize = (15,20), table = True)
 
 plt.show()
