@@ -23,6 +23,19 @@ I saved the file under filename iris_dataset.csv
 
 Analysis 
 
+iris-data.png
+
+
+![iris-data](https://user-images.githubusercontent.com/47527906/56681090-78537480-66c0-11e9-8668-d0b12069c1c7.PNG)
+
+This gives us a look at the data and the format of the csv file with column headings and rows numbered from 1 on.
+
+iris-data-2.png
+
+
+
+
+
 
 Results 
 The Setosa species low petal lengths when compared to the other species. This low petal length explains why there was a negative skew
