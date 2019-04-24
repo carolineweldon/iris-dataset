@@ -49,6 +49,8 @@ separately.
 
 iris-scatter.png 
 
+![iris-scatter](https://user-images.githubusercontent.com/47527906/56682788-33c9d800-66c4-11e9-942f-558ae0ea60ee.png)
+
 
 
 
