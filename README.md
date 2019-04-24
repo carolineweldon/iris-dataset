@@ -38,6 +38,12 @@ iris-data-2.png
 
 The code iris-data.py shows us there are 150 rows with 5 columns; 3 species with 50 samples of each.
 
+iris-describe.png
+
+
+
+The program iris-describe.py outputs values for mean, standard deviation, min values and max values for all species and for each species separately. 
+
 
 
 
