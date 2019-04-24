@@ -47,6 +47,10 @@ iris-describe.png
 The program iris-describe.py outputs values for mean, standard deviation, min values and max values for all species and for each species 
 separately. 
 
+iris-scatter.png 
+
+
+
 
 
 
