@@ -8,6 +8,7 @@ Install Python libraries Pandas, Matplotlib and NumPy.
 
 
 Background
+
 The objective of this project is to research and explore Fisher's Iris Dataset. The Iris flower data set is a multivariate data set 
 introduced by the British statistician and biologist Ronald Fisher in his 1936 paper. This dataset is by far one of the best known and
 commonly used datasets in the Data Science. The dataset consists of 50 samples from each of three species of Iris (Setosa, Versicolor 
@@ -17,6 +18,7 @@ discriminant model to distinguish the species from each other, and based on Fish
 typical test case for many statistical classification techniques in machine learning. (Wikipedia)  
 
 CSV File
+
 I downloaded the Iris dataset from github: https://gist.github.com/curran/a08a1080b88344b0c8a7#file-iris-csv 
 I saved the file under filename iris_dataset.csv
 
