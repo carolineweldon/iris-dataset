@@ -51,6 +51,8 @@ iris-scatter.png
 
 ![iris-scatter](https://user-images.githubusercontent.com/47527906/56682788-33c9d800-66c4-11e9-942f-558ae0ea60ee.png)
 
+iris-scatter.py looks at the interactions between all pairs of attributes. The diagonal grouping of some pairs of attributes suggest a high correlation and  predicable relationship
+
 
 
 
