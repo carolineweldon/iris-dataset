@@ -59,6 +59,11 @@ iris-scatter-2.png
 
 iris-scatter-2.py suggest a high correlation between petal length and petal width 
 
+iris-scatter-3.png
+
+
+![iris-scatter-3](https://user-images.githubusercontent.com/47527906/56683494-92dc1c80-66c5-11e9-970e-ee392320297a.png)
+
 
 
 
