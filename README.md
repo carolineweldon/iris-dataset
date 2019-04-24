@@ -53,8 +53,11 @@ most unique amongth the flowers are their petal lengths.
 
 References 
 https://matplotlib.org/
+
 https://www.kaggle.com/uciml/iris
+
 https://docs.scipy.org/doc/numpy/index.html
+
 https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
  
