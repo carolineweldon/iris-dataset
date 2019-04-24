@@ -28,9 +28,13 @@ iris-data.png
 
 ![iris-data](https://user-images.githubusercontent.com/47527906/56681090-78537480-66c0-11e9-8668-d0b12069c1c7.PNG)
 
-This gives us a look at the data and the format of the csv file with column headings and rows numbered from 0 on.
+The code iris-data.py gives us a snapshot of the data and the format of the csv file, with column headings and rows numbered from 0 on.
 
 iris-data-2.png
+
+![iris-data2](https://user-images.githubusercontent.com/47527906/56681485-47c00a80-66c1-11e9-83b0-02999394eaae.PNG)
+
+The code for iris-data-2.py shows us there are 150 rows with 5 columns; 3 species with 50 sampes of each
 
 
 
