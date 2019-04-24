@@ -34,7 +34,7 @@ iris-data-2.png
 
 ![iris-data2](https://user-images.githubusercontent.com/47527906/56681485-47c00a80-66c1-11e9-83b0-02999394eaae.PNG)
 
-The code for iris-data-2.py shows us there are 150 rows with 5 columns; 3 species with 50 sampes of each
+The code iris-data.py shows us there are 150 rows with 5 columns; 3 species with 50 samples of each.
 
 
 
@@ -42,8 +42,8 @@ The code for iris-data-2.py shows us there are 150 rows with 5 columns; 3 specie
 
 
 Results 
-The Setosa species low petal lengths when compared to the other species. This low petal length explains why there was a negative skew
-when looking at petal length on boxplot graph. The Setosa flowers also tend to have larger sepal widths when compared to the other 
+The Setosa species has low petal lengths when compared to the other species. This low petal length explains why there was a negative
+skew when looking at petal length on boxplot graph. The Setosa flowers also tend to have larger sepal widths when compared to the other 
 flowers. On the other hand, Versicolor and Virginica tend to have similar measurements when compared to each other. However, the 
 Versicolor flowers tend to have smaller petal lengths and widths than the Virginica flowers. Overall, the measurement that seems to be 
 most unique amongth the flowers are their petal lengths. 
