@@ -44,6 +44,7 @@ The code iris-data.py shows us there are 150 rows with 5 columns; 3 species with
 
 
 Results 
+
 The Setosa species has low petal lengths when compared to the other species. This low petal length explains why there was a negative
 skew when looking at petal length on boxplot graph. The Setosa flowers also tend to have larger sepal widths when compared to the other 
 flowers. On the other hand, Versicolor and Virginica tend to have similar measurements when compared to each other. However, the 
