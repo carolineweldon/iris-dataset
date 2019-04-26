@@ -76,6 +76,10 @@ iris-histogram.png
 
 ![iris-histogram](https://user-images.githubusercontent.com/47527906/56798208-43553800-680e-11e9-9b85-045bf684e28a.png)
 
+iris-histogram-2
+
+![iris-histogram](https://user-images.githubusercontent.com/47527906/56798208-43553800-680e-11e9-9b85-045bf684e28a.png)
+
 
 
 
