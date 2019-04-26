@@ -80,6 +80,10 @@ iris-histogram-2.png
 
 ![iris-histogram](https://user-images.githubusercontent.com/47527906/56798208-43553800-680e-11e9-9b85-045bf684e28a.png)
 
+iris-correlation.png
+
+![iris-correlation](https://user-images.githubusercontent.com/47527906/56798576-ec039780-680e-11e9-8fbc-1e8265ec1025.PNG)
+
 
 
 
