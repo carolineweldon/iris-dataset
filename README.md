@@ -96,6 +96,11 @@ iris-histogram.png
 
 ![iris-boxplot](https://user-images.githubusercontent.com/47527906/56798882-a398a980-680f-11e9-8553-cab0d95a2854.png)
 
+iris-histogram-2.png
+
+
+![iris-boxplot-2](https://user-images.githubusercontent.com/47527906/56798999-e2c6fa80-680f-11e9-8897-9dc326a0a88b.png)
+
 
 
 
