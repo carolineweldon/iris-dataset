@@ -1,9 +1,12 @@
 Analysis of Fisher's Iris Data Set – Caroline Weldon 
+
 GMIT Ireland - Higher Diploma in Data Analytics: Programming & Scripting
 
 
 Download repository at  https://github.com/carolineweldon/iris-dataset 
+
 Run Code-You will need to install Python, Visual Studio Code and Cmder.
+
 Install Python libraries Pandas, Matplotlib and NumPy.
 
 
