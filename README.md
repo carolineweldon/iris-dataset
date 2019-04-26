@@ -8,8 +8,7 @@
 
 Download repository at  https://github.com/carolineweldon/iris-dataset 
 
-Run Code-You will need to install Python, Visual Studio Code and Cmder.
-
+**Run Code**-You will need to install Python, Visual Studio Code and Cmder.
 Install Python libraries Pandas, Matplotlib and NumPy.
 
 
