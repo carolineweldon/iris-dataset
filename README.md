@@ -84,7 +84,13 @@ iris-histogram-2.png
 
 iris-correlation.png
 
+
 ![iris-correlation](https://user-images.githubusercontent.com/47527906/56798576-ec039780-680e-11e9-8fbc-1e8265ec1025.PNG)
+
+iris-correlation-2.png
+
+
+![iris-correlation-2](https://user-images.githubusercontent.com/47527906/56798788-68967600-680f-11e9-835c-526f9744791c.png)
 
 
 
