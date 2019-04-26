@@ -27,7 +27,7 @@ fifth column is the species names of the flower observed. Based on the combinati
 discriminant model to distinguish the species from each other, and based on Fisher's linear discriminant model, this data set became a 
 typical test case for many statistical classification techniques in machine learning. (Wikipedia)  
 
-*CSV File*
+**CSV File**
 
 I downloaded the Iris dataset from github: https://gist.github.com/curran/a08a1080b88344b0c8a7#file-iris-csv 
 I saved the file under filename iris_dataset.csv
