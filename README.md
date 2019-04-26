@@ -69,7 +69,14 @@ iris-scatter-3.png
 
 ![iris-scatter-3](https://user-images.githubusercontent.com/47527906/56683494-92dc1c80-66c5-11e9-970e-ee392320297a.png)
 
-iris-scatter-3.py splits iris flower into each species. The scatter plot of petal length and petal width shows a distinct difference between Setosa compared to the other species. 
+iris-scatter-3.py splits iris flower into each species. The scatter plot of petal length and petal width shows a distinct difference 
+between Setosa compared to the other species. 
+
+iris-histogram.png
+
+![iris-histogram](https://user-images.githubusercontent.com/47527906/56798208-43553800-680e-11e9-9b85-045bf684e28a.png)
+
+
 
 
 
