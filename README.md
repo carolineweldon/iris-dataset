@@ -92,6 +92,10 @@ iris-correlation-2.png
 
 ![iris-correlation-2](https://user-images.githubusercontent.com/47527906/56798788-68967600-680f-11e9-835c-526f9744791c.png)
 
+iris-histogram.png
+
+![iris-boxplot](https://user-images.githubusercontent.com/47527906/56798882-a398a980-680f-11e9-8553-cab0d95a2854.png)
+
 
 
 
