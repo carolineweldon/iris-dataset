@@ -118,7 +118,7 @@ between Setosa compared to the other species. Setosa is very distinct fom the ot
 
 
 
-Results 
+**Results** 
 
 The Setosa species has low petal lengths when compared to the other species. This low petal length explains why there was a negative
 skew when looking at petal length on boxplot graph. The Setosa flowers also tend to have larger sepal widths when compared to the other 
