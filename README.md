@@ -75,7 +75,7 @@ iris-scatter-2.py suggest a high correlation between petal length and petal widt
 ![iris-scatter-3](https://user-images.githubusercontent.com/47527906/56683494-92dc1c80-66c5-11e9-970e-ee392320297a.png)
 
 iris-scatter-3.py splits iris flower into each species. The scatter plot of petal length and petal width shows a distinct difference 
-between Setosa compared to the other species. 
+between Setosa compared to the other species. Setosa is very distinct fom the other two species in term of sepal length and sepal width, but versicolor and virginica seem to mix into each other.
 
 **iris-histogram.png**
 
