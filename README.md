@@ -1,6 +1,6 @@
-Analysis of Fisher's Iris Data Set – Caroline Weldon 
+*Analysis of Fisher's Iris Data Set – Caroline Weldon* 
 
-GMIT Ireland - Higher Diploma in Data Analytics: Programming & Scripting
+*GMIT Ireland - Higher Diploma in Data Analytics: Programming & Scripting*
 
 
 [Project 2019.pdf](https://github.com/carolineweldon/iris-dataset/files/3120707/Project.2019.pdf)
