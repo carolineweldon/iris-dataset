@@ -78,6 +78,8 @@ iris-histogram.png
 
 iris-histogram-2.png
 
+![iris-histogram-2](https://user-images.githubusercontent.com/47527906/56798706-3a189b00-680f-11e9-99ea-48340e7fb3e2.png)
+
 
 
 iris-correlation.png
